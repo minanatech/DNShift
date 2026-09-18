@@ -44,7 +44,7 @@ You do not have to take our word for it. The source is here, the checksum is pub
 
 ## Building from source
 
-Open `DNShift.sln` in Visual Studio and build in Release configuration. The project targets .NET Framework 4.8 and has no external dependencies.
+Open `DNShift.csproj` in Visual Studio and build in Release configuration. The project targets .NET Framework 4.8 and has no external dependencies.
 
 ## Why
 
